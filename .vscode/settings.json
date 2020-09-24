@@ -1,0 +1,10 @@
+{
+    "prettier.disableLanguages": [
+        "vue"
+    ],
+    "editor.formatOnSave": true,
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    }
+}
